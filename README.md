@@ -31,7 +31,7 @@ Développeur qui crée des projets parce que dormir est manifestement optionnel.
 <sub>Neco Arc approuve probablement ce dépôt.</sub>
 
 <p align="center">
-  <img src="https://media.tenor.com/search?q=neco+arc" width="50">
+  <img src="https://media.tenor.com/2KQMl1g-HTAAAAAi/neco-arc.gif">
 </p>
 
 <sub>burunya.</sub>
