@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Nawfel
 
-<img src="https://media.tenor.com/NDS88lmjy0wAAAAj/neco-arc-neco-arc.gif" width="80">
+<img src="https://media.tenor.com/NDS88lmjy0wAAAAj/neco-arc-neco-arc.gif">
 
 Développeur qui crée des projets parce que dormir est manifestement optionnel.
 
