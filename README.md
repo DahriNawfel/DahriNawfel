@@ -1,21 +1,9 @@
 # 👋 Salut, moi c'est Nawfel
 
-<img src="https://media.tenor.com/search?q=neco+arc" width="80"/>
+<img src="https://media.tenor.com/search?q=neco+arc](https://tenor.com/eD3qxhd9INQ.gif" width="80"/>
 
 Développeur qui crée des projets parce que dormir est manifestement optionnel.
 
-## 🚀 Mes projets
-
-### 📦 Projet 1
-Description du projet.
-
-### 🎮 Projet 2
-Description du projet.
-
-### 🛠️ Projet 3
-Description du projet.
-
----
 
 ## 💻 Technologies
 
